@@ -1,2 +1,2 @@
-# block3_module5_project
+# Group-Project
 Web Content Management System
