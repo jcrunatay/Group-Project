@@ -14,6 +14,8 @@ languages or markup languages to create and manage website content with relative
 * JAVASCRIPT
 * BOOTSTRAP
 
+## Project Output
+
 
 
 ![HomePage](https://github.com/jcrunatay/Group-Project/blob/main/home.png "Home-Page") 
